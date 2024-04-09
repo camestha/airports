@@ -1,0 +1,40 @@
+London Heathrow Airport (LHR), United Kingdom - EGLL
+Paris Charles de Gaulle Airport (CDG), France - LFPG
+Frankfurt Airport (FRA), Germany - EDDF
+Amsterdam Airport Schiphol (AMS), Netherlands - EHAM
+Istanbul Airport (IST), Turkey - LTFM
+Madrid-Barajas Adolfo Suárez Airport (MAD), Spain - LEMD
+Barcelona-El Prat Airport (BCN), Spain - LEBL
+Rome Fiumicino Airport (FCO), Italy - LIRF
+Munich Airport (MUC), Germany - EDDM
+London Gatwick Airport (LGW), United Kingdom - EGKK
+Manchester Airport (MAN), United Kingdom - EGCC
+Dublin Airport (DUB), Ireland - EIDW
+Zurich Airport (ZRH), Switzerland - LSZH
+Copenhagen Airport (CPH), Denmark - EKCH
+Lisbon Airport (LIS), Portugal - LPPT
+Vienna International Airport (VIE), Austria - LOWW
+Oslo Gardermoen Airport (OSL), Norway - ENGM
+Stockholm Arlanda Airport (ARN), Sweden - ESSA
+Helsinki-Vantaa Airport (HEL), Finland - EFHK
+Brussels Airport (BRU), Belgium - EBBR
+Athens International Airport (ATH), Greece - LGAV
+Düsseldorf Airport (DUS), Germany - EDDL
+Moscow Sheremetyevo International Airport (SVO), Russia - UUEE
+Hamburg Airport (HAM), Germany - EDDH
+Milan Malpensa Airport (MXP), Italy - LIMC
+Geneva Airport (GVA), Switzerland - LSGG
+Warsaw Chopin Airport (WAW), Poland - EPWA
+Berlin Tegel Airport (TXL), Germany - EDDT
+Stuttgart Airport (STR), Germany - EDDS
+Lyon-Saint Exupéry Airport (LYS), France - LFLL
+Nice Côte d'Azur Airport (NCE), France - LFMN
+Málaga-Costa del Sol Airport (AGP), Spain - LEMG
+Alicante-Elche Airport (ALC), Spain - LEAL
+Palma de Mallorca Airport (PMI), Spain - LEPA
+Budapest Ferenc Liszt International Airport (BUD), Hungary - LHBP
+Edinburgh Airport (EDI), United Kingdom - EGPH
+Glasgow Airport (GLA), United Kingdom - EGPF
+Bucharest Henri Coandă International Airport (OTP), Romania - LROP
+Prague Václav Havel Airport (PRG), Czech Republic - LKPR
+Cologne Bonn Airport (CGN), Germany - EDDK
